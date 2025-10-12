@@ -24,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/h54292386-stack/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1944-truncate-sentence](https://github.com/h54292386-stack/leetcode-solution/tree/master/1944-truncate-sentence) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/h54292386-stack/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
