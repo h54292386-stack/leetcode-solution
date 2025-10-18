@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/h54292386-stack/leetcode-solution/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/h54292386-stack/leetcode-solution/tree/master/1944-truncate-sentence) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/h54292386-stack/leetcode-solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/h54292386-stack/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/h54292386-stack/leetcode-solution/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
