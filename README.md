@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/h54292386-stack/leetcode-solution/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/h54292386-stack/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/h54292386-stack/leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/h54292386-stack/leetcode-solution/tree/master/2383-add-two-integers) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/h54292386-stack/leetcode-solution/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/h54292386-stack/leetcode-solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/h54292386-stack/leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
