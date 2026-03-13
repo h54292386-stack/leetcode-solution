@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/h54292386-stack/leetcode-solution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/h54292386-stack/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/h54292386-stack/leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/h54292386-stack/leetcode-solution/tree/master/2383-add-two-integers) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/h54292386-stack/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/h54292386-stack/leetcode-solution/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/h54292386-stack/leetcode-solution/tree/master/1944-truncate-sentence) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/h54292386-stack/leetcode-solution/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -47,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/h54292386-stack/leetcode-solution/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
