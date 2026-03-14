@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/h54292386-stack/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/h54292386-stack/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/h54292386-stack/leetcode-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/h54292386-stack/leetcode-solution/tree/master/1944-truncate-sentence) |
@@ -54,12 +55,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/h54292386-stack/leetcode-solution/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/h54292386-stack/leetcode-solution/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/h54292386-stack/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/h54292386-stack/leetcode-solution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
